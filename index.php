@@ -10,6 +10,10 @@
 <body>
     <h3>Judul</h3>
     <p>Ngikut ajah</p>
+    <ul>
+        <li>A</li>
+        <li>B</li>
+    </ul>
 </body>
 
 </html>
